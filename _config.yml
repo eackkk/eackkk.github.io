@@ -1,10 +1,10 @@
 # Site settings
-title: eackkk's blog
-description: "just fun"
-url: "https://eackkk.github.io"
+title: welcome
+description: ""
+url: "http://www.eackkk.github.io/"
 
 # Build settings
-baseurl: "/"
+baseurl: /
 markdown: kramdown
 source: .
 destination: ./_site
